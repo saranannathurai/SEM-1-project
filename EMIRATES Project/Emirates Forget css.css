@@ -1,0 +1,73 @@
+
+form{ width:30rem;margin-left: 450px;box-shadow: 0 8px 32px 0 rgba(18,24,141,0.57);}
+body{background-color: gray;background-image: url(Payment\ bg.jpg);}
+h2{ text-align: center;}
+
+
+h1{text-align: center;}
+button:hover{
+    
+    background-color: rgb(134, 243, 134);
+    padding: 10px 20px;
+    border-color:white black;
+    font-family: cursive;
+}
+form-control{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.form-control label {
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(100, 100, 100, 1);
+}
+
+.form-control small {
+  margin: -18px;
+  font-size: 13px;
+  font-weight: 300;
+  visibility: hidden;
+}
+
+.form-control input {
+  margin-top: 6px;
+  background-color: rgba(241, 241, 241, 1);
+  display: block;
+  border: none;
+  border-radius: 7px;
+  font-size: 14px;
+  padding: 15px;
+  width: 325px;
+  margin-left: 50px;
+}
+.form-control input::placeholder {
+  color: rgba(187, 187, 187, 1);
+  font-size: 14px;
+  font-weight: 200;
+}
+.form-control i {
+  position: relative;
+  top: -35px;
+  left: 295px;
+}
+.model{
+    color: black;
+}
+.button{
+  text-decoration: none;
+  background-color:rgb(167, 167, 231);
+}
+.id{
+    margin-top: 150px;
+    padding-top: 5px;
+}
+.no{
+    margin-left: 200px;
+padding: 10px;
+border-radius: 10px;
+background-color: violet;
+text-decoration: none;
+}
+.yes{
+    text-decoration: none;
+}
